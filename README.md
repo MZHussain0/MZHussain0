@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Zakir Hussain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzhussain0" alt="mzhussain0" /></a> </p>
 
-- 🔭 I’m currently working on **react and tailwindcss project**
+- 🔭 I’m currently working on **Nextjs & shadcnUI project**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **tRPC**
 
-- 👨‍💻 All of my projects are available at [https://mzh092.netlify.app/](https://mzh092.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mzhussain.vercel.app/](https://mzhussain.vercel.app/)
 
 - 💬 Ask me about **react**
 
